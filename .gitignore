@@ -1,0 +1,36 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Ignore packages folder
+**/[Pp]ackages/*
+
+# Ignore Visual Studio temporary files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore nuget package directories
+*.nupkg
+
+# Ignore the build results
+[Bb]in/
+[Oo]bj/
+
+Propierties/launchSettings.json
